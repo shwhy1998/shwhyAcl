@@ -1,5 +1,15 @@
 # 代理列表
 
+
+
+
+
+#PS5相关
+DOMAIN,ps5.np.playstation.net
+DOMAIN,image.api.playstation.com
+DOMAIN,library.rnps.dl.playstation.net
+DOMAIN,home.rnps.dl.playstation.net
+
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
