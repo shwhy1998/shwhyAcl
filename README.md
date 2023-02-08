@@ -1,4 +1,4 @@
-# shwhyAcl
+# About
 OpenClash 自用规则库
 
 
